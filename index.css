@@ -1,0 +1,51 @@
+body {
+    margin: 0px;
+}
+
+#button-container {
+    margin-top: 100px;
+    text-align: center;
+    margin-bottom: 100px;
+}
+
+#container {
+    border-left: 5px dashed yellow;
+    border-bottom: 5px dashed yellow;
+    border-right: 5px dashed yellow;
+    height: auto;
+    width: 1000px;
+    min-height: 100px;
+    margin: auto;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap-reverse;
+    justify-content: flex-start;
+    align-items: flex-start;
+    transition: 1s all ease-in-out;
+}
+
+.ball {
+    height: 100px;
+    width: 100px;
+    border-radius: 50%;
+}
+
+#button {
+    padding: 10px 20px;
+    background-color: #3498db;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.3);
+}
+
+#button:hover {
+    background-color: #2980b9;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+}
+
+#button:focus {
+    outline: none;
+}
