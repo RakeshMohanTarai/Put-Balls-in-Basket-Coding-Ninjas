@@ -6,3 +6,5 @@ The process is fully automatic and you just need to press a button to initiate t
 The addition of a ball starts from the left side of the basket and gets stacked up as a row gets fully filled.
 
 The balls are picked at random by the machine and they have the following colors - 'red', 'blue', 'yellow', 'lightgrey', 'darkorchid', 'black', 'orange', 'deeppink', 'green', 'purple', 'saddlebrown', 'lightseagreen', 'deepskyblue', 'firebrick' and 'crimson'.
+
+Hosted link :- https://rakeshmohantarai.github.io/Put-Balls-in-Basket-Coding-Ninjas/
